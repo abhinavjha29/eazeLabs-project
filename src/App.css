@@ -1,0 +1,23 @@
+.container {
+  max-width: 150px !important;
+  margin-left: -10px;
+  margin-right: 5px;
+  width: 150px !important;
+}
+.dropdown {
+  margin-left: 15px;
+}
+.table-heading {
+  text-align: center;
+  vertical-align: middle;
+}
+
+.w-18rem {
+  width: 18rem;
+}
+
+.big-card {
+  width: 23rem;
+  margin-left: 10px;
+  margin-right: 10px;
+}
