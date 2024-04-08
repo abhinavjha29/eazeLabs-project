@@ -1,8 +1,12 @@
-# React + Vite
+# My React.js Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This website is built using React.js, with Tailwind CSS and Bootstrap for styling, and Context API for managing data.
 
-Currently, two official plugins are available:
+## Technologies Used
+- React.js: A JavaScript library for building user interfaces.
+- Tailwind CSS: A utility-first CSS framework for rapidly building custom designs.
+- Bootstrap: A popular CSS framework for building responsive and mobile-first websites.
+- Context API: A React feature for managing global state and sharing data between components.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Live Demo
+The app is now live and can be accessed https://abhinavjha29.github.io/abhinavjha29-github.io/
